@@ -7,10 +7,10 @@
 2. Setup AWS configure with Access key and secret access ID
 3. Run the below commands in order
 
-...
-terraform init 
-terraform validate
+```
+terraform init
+terraform validate 
 terraform plan
 terraform apply
 
-...
+```
